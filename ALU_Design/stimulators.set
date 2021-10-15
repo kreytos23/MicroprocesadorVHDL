@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/ALUVHDL/A(0)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/A(1)"/>
+				<rawdescription value="VAL:FRM:Override:1:&lt;= 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/A(2)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/A(3)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/B(0)"/>
+				<rawdescription value="VAL:FRM:Override:1:&lt;= 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/B(1)"/>
+				<rawdescription value="VAL:FRM:Override:1:&lt;= 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/B(2)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/B(3)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/CIN"/>
+				<rawdescription value="VAL:FRM:Override:1:&lt;= 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/CLK"/>
+				<rawdescription value="CLK:FRM:Override:100.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/D(0)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/D(1)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/D(2)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/D(3)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/FE"/>
+				<rawdescription value="VAL:FRM:Override:1:&lt;= 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/PUSHPOP"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/SE(0)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/SE(1)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/op(0)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/op(1)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/ALUVHDL/op(2)"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>

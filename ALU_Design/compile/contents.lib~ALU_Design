@@ -1,0 +1,4 @@
+114
+~E 1 "../src/ALUVHDL.vhd" 20 ALUVHDL
+~A 1 "../src/ALUVHDL.vhd" 56 ARQ_ALUVHDL
+~E 1 "../compile/Multi4a1.vhd" 24 Multi4a1
